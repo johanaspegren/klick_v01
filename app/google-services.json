@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "815539230069",
+    "firebase_url": "https://gentlecase-fdace.firebaseio.com",
+    "project_id": "gentlecase-fdace",
+    "storage_bucket": "gentlecase-fdace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815539230069:android:e44ad6a068ffbc6d2fef3c",
+        "android_client_info": {
+          "package_name": "com.aspegrenide.gentlecase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815539230069-04psh6jq2asa2tl9v2m3bjvl2197d417.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ac1RC4laFYcNxp4ZpXAS-fXk1t31aoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815539230069-04psh6jq2asa2tl9v2m3bjvl2197d417.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815539230069:android:e4e1fd1c1c6f7a1a2fef3c",
+        "android_client_info": {
+          "package_name": "com.aspegrenide.klick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815539230069-04psh6jq2asa2tl9v2m3bjvl2197d417.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ac1RC4laFYcNxp4ZpXAS-fXk1t31aoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815539230069-04psh6jq2asa2tl9v2m3bjvl2197d417.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815539230069:android:8964d48f634b43422fef3c",
+        "android_client_info": {
+          "package_name": "com.aspegrenide.usblistenerwithservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815539230069-04psh6jq2asa2tl9v2m3bjvl2197d417.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ac1RC4laFYcNxp4ZpXAS-fXk1t31aoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815539230069-04psh6jq2asa2tl9v2m3bjvl2197d417.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
